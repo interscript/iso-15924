@@ -1,7 +1,9 @@
 # iso-15924
 
-[ISO 15924](https://unicode.org/iso15924/) codes in machine-readable form.
+[ISO 15924](https://unicode.org/iso15924/) codes in machine-readable form. 
 
+## Updates
+Automatically, it's synced up with RA using GHA and releases a new version.
 
 ## Installation
 
