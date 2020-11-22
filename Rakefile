@@ -105,7 +105,7 @@ end
 
 desc 'Check enviroment variables'
 task :init do
-  if ENV['RUBYGEMS_API_KEY'].nil?
+  if ENV['RUBYGEMS_API_KEY'].nil? || ENV['RUBYGEMS_API_KEY'].empty?
     puts "'RUBYGEMS_API_KEY' enviroment variable not set"
     exit(1)
   end
