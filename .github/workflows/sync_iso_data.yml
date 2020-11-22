@@ -18,4 +18,6 @@ jobs:
     - name: Install dependencies
       run: bundle install
     - name: Run cron_job
-      run: bundle exec rake cron_job
+      run: bundle exec rake sync_ra
+      env:
+        RUBYGEMS_API_KEY: ${{ secrets.RUBYGEMS_API_KEY }}
