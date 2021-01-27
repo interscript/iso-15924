@@ -916,6 +916,13 @@ Osma:
   pva: Osmanya
   age: 4.0
   date: 2004-05-01
+Ougr:
+  numeric: 143
+  english: Old Uyghur
+  french: ancien ouïgour
+  pva: 
+  age: 
+  date: 2021-01-25
 Palm:
   numeric: 126
   english: Palmyrene
@@ -930,6 +937,20 @@ Pauc:
   pva: Pau_Cin_Hau
   age: 7.0
   date: 2014-11-15
+Pcun:
+  numeric: 13
+  english: Proto-Cuneiform
+  french: proto-cunéiforme
+  pva: 
+  age: 
+  date: 2021-01-25
+Pelm:
+  numeric: 14
+  english: Proto-Elamite
+  french: proto-élamite
+  pva: 
+  age: 
+  date: 2021-01-25
 Perm:
   numeric: 227
   english: Old Permic
@@ -993,6 +1014,13 @@ Prti:
   pva: Inscriptional_Parthian
   age: 5.2
   date: 2009-06-01
+Psin:
+  numeric: 103
+  english: Proto-Sinaitic
+  french: proto-sinaïtique
+  pva: 
+  age: 
+  date: 2021-01-25
 Qaaa:
   numeric: 900
   english: Reserved for private use (start)
@@ -1007,6 +1035,13 @@ Qabx:
   pva: 
   age: 
   date: 2004-05-29
+Ranj:
+  numeric: 303
+  english: Ranjana
+  french: ranjana
+  pva: 
+  age: 
+  date: 2021-01-25
 Rjng:
   numeric: 363
   english: Rejang (Redjang, Kaganga)

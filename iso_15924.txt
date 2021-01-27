@@ -136,8 +136,11 @@ Orkh;175;Old Turkic, Orkhon Runic;orkhon;Old_Turkic;5.2;2009-06-01
 Orya;327;Oriya (Odia);oriyâ (odia);Oriya;1.1;2016-12-05
 Osge;219;Osage;osage;Osage;9.0;2016-12-05
 Osma;260;Osmanya;osmanais;Osmanya;4.0;2004-05-01
+Ougr;143;Old Uyghur;ancien ouïgour;;;2021-01-25
 Palm;126;Palmyrene;palmyrénien;Palmyrene;7.0;2014-11-15
 Pauc;263;Pau Cin Hau;paou chin haou;Pau_Cin_Hau;7.0;2014-11-15
+Pcun;015;Proto-Cuneiform;proto-cunéiforme;;;2021-01-25
+Pelm;016;Proto-Elamite;proto-élamite;;;2021-01-25
 Perm;227;Old Permic;ancien permien;Old_Permic;7.0;2014-11-15
 Phag;331;Phags-pa;’phags pa;Phags_Pa;5.0;2006-10-10
 Phli;131;Inscriptional Pahlavi;pehlevi des inscriptions;Inscriptional_Pahlavi;5.2;2009-06-01
@@ -147,8 +150,10 @@ Phnx;115;Phoenician;phénicien;Phoenician;5.0;2006-10-10
 Plrd;282;Miao (Pollard);miao (Pollard);Miao;6.1;2012-02-06
 Piqd;293;Klingon (KLI pIqaD);klingon (pIqaD du KLI);;;2015-12-16
 Prti;130;Inscriptional Parthian;parthe des inscriptions;Inscriptional_Parthian;5.2;2009-06-01
+Psin;103;Proto-Sinaitic;proto-sinaïtique;;;2021-01-25
 Qaaa;900;Reserved for private use (start);réservé à l’usage privé (début);;;2004-05-29
 Qabx;949;Reserved for private use (end);réservé à l’usage privé (fin);;;2004-05-29
+Ranj;303;Ranjana;ranjana;;;2021-01-25
 Rjng;363;Rejang (Redjang, Kaganga);redjang (kaganga);Rejang;5.1;2009-02-23
 Rohg;167;Hanifi Rohingya;hanifi rohingya;Hanifi_Rohingya;11.0;2017-11-21
 Roro;620;Rongorongo;rongorongo;;;2004-05-01
