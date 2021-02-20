@@ -194,10 +194,12 @@ Thaa;170;Thaana;thâna;Thaana;3.0;2004-05-01
 Thai;352;Thai;thaï;Thai;1.1;2004-05-01
 Tibt;330;Tibetan;tibétain;Tibetan;2.0;2004-05-01
 Tirh;326;Tirhuta;tirhouta;Tirhuta;7.0;2014-11-15
+Tnsa;275;Tangsa;tangsa;;;2021-02-17
 Toto;294;Toto;toto;;;2020-04-16
 Ugar;040;Ugaritic;ougaritique;Ugaritic;4.0;2004-05-01
 Vaii;470;Vai;vaï;Vai;5.1;2007-07-02
 Visp;280;Visible Speech;parole visible;;;2004-05-01
+Vith;228;Vithkuqi;vithkuqi;;;2021-02-17
 Wara;262;Warang Citi (Varang Kshiti);warang citi;Warang_Citi;7.0;2014-11-15
 Wcho;283;Wancho;wantcho;Wancho;12.0;2017-07-26
 Wole;480;Woleai;woléaï;;;2010-12-21

@@ -1322,6 +1322,13 @@ Tirh:
   pva: Tirhuta
   age: 7.0
   date: 2014-11-15
+Tnsa:
+  numeric: 275
+  english: Tangsa
+  french: tangsa
+  pva: 
+  age: 
+  date: 2021-02-17
 Toto:
   numeric: 294
   english: Toto
@@ -1350,6 +1357,13 @@ Visp:
   pva: 
   age: 
   date: 2004-05-01
+Vith:
+  numeric: 228
+  english: Vithkuqi
+  french: vithkuqi
+  pva: 
+  age: 
+  date: 2021-02-17
 Wara:
   numeric: 262
   english: Warang Citi (Varang Kshiti)
