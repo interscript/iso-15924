@@ -6,7 +6,14 @@ module Iso15924
 
   ISO_15924 = lambda do
     yaml_file = File.expand_path('iso-15924.yaml', File.dirname(__FILE__))
-    YAML.unsafe_load(File.read(yaml_file)).tap do |h|
+
+    unsafe_load = if YAML.respond_to? :unsafe_load
+      :unsafe_load
+    else
+      :load
+    end
+
+    YAML.public_send(unsafe_load, File.read(yaml_file)).tap do |h|
       h.each do |k,v|
         v.freeze
       end
